@@ -5,4 +5,5 @@ rename the script you'd like to send to send.py, then run the client version on 
 run the server on the other computer, insert the right IP's, and it'll work.
 
 license: CC-BY-NC-SA 4.0
+
 Do not use to train AI
